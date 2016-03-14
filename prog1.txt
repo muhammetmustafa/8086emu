@@ -1,0 +1,8 @@
+   MOV AX, [10h]
+   ADD AL, 02h
+   JNC son
+   JC ekle
+ekle:
+   INC AH
+son:
+   HLT

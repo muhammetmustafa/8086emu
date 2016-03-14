@@ -1,0 +1,8 @@
+mov ah, 43
+bas:
+mov al, 0aeh
+mov cx, 0ffffh
+son:
+adc al, 0ffh
+ja bas
+ja son

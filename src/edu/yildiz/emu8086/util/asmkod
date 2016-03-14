@@ -1,0 +1,8 @@
+mov cx, ax
+inc dx
+mov ax, cx
+mov cx, cx
+inc cx
+inc cx
+inc cx
+HLT

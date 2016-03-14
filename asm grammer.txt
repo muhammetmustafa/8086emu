@@ -1,0 +1,13 @@
+asm = komut asm;
+	
+komut = etiketliKomut | etiketsizKomut;
+	
+etiketsizKomut = işleç | işleç parametre | işleç parametre, parametre;
+
+etiketliKomut = id: etiketsizKomut;
+		
+işleç = MOV | ADD | SUB | MUL | ....;
+id = a-zA-Z0-9;
+parametre = immediate|memory|register;
+immediate = integer|hexadecimal;
+register = ax|bx|cx|dx|....;
