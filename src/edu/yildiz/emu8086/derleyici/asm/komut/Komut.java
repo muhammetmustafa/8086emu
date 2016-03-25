@@ -1,12 +1,12 @@
 
 package edu.yildiz.emu8086.derleyici.asm.komut;
 
-import edu.yildiz.emu8086.board.eu.islem.AluIslemi;
-import edu.yildiz.emu8086.board.eu.islem.AtlamaIslemi;
-import edu.yildiz.emu8086.board.eu.islem.BayrakIslemi;
-import edu.yildiz.emu8086.board.eu.islem.Islem;
-import edu.yildiz.emu8086.board.eu.islem.OzelIslem;
-import edu.yildiz.emu8086.board.eu.islem.VeriTransferIslemi;
+import edu.yildiz.emu8086.board.eu.AluIslemi;
+import edu.yildiz.emu8086.board.eu.AtlamaIslemi;
+import edu.yildiz.emu8086.board.eu.BayrakIslemi;
+import edu.yildiz.emu8086.board.eu.Islem;
+import edu.yildiz.emu8086.board.eu.OzelIslem;
+import edu.yildiz.emu8086.board.eu.VeriTransferIslemi;
 import edu.yildiz.emu8086.derleyici.asm.operand.AluOperand;
 import edu.yildiz.emu8086.derleyici.asm.operand.EtiketOperand;
 import edu.yildiz.emu8086.derleyici.asm.operand.Operand;

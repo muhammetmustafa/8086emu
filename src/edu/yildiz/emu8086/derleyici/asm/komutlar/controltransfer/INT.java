@@ -1,7 +1,7 @@
 
 package edu.yildiz.emu8086.derleyici.asm.komutlar.controltransfer;
 
-import edu.yildiz.emu8086.board.eu.islem.Islem;
+import edu.yildiz.emu8086.board.eu.Islem;
 import edu.yildiz.emu8086.derleyici.asm.komut.TekOperandliKomut;
 import edu.yildiz.emu8086.derleyici.asm.operand.Operand;
 import java.util.List;

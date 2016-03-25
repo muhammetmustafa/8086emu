@@ -1,7 +1,7 @@
 
 package edu.yildiz.emu8086.derleyici.asm.komutlar.logical;
 
-import edu.yildiz.emu8086.board.eu.islem.AluIslemi;
+import edu.yildiz.emu8086.board.eu.AluIslemi;
 import edu.yildiz.emu8086.derleyici.ParserException;
 import edu.yildiz.emu8086.derleyici.asm.komut.CiftOperandliKomut;
 import edu.yildiz.emu8086.derleyici.asm.operand.ByteImmediateOperand;

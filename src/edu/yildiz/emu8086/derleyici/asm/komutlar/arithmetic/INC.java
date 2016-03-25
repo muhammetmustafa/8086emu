@@ -1,7 +1,7 @@
 
 package edu.yildiz.emu8086.derleyici.asm.komutlar.arithmetic;
 
-import edu.yildiz.emu8086.board.eu.islem.AluIslemi;
+import edu.yildiz.emu8086.board.eu.AluIslemi;
 import edu.yildiz.emu8086.derleyici.asm.komut.TekOperandliKomut;
 import edu.yildiz.emu8086.derleyici.asm.operand.ByteRegisterOperand;
 import edu.yildiz.emu8086.derleyici.asm.operand.MemoryOperand;

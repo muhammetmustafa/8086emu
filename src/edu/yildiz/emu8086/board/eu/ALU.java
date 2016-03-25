@@ -1,7 +1,6 @@
 
 package edu.yildiz.emu8086.board.eu;
 
-import edu.yildiz.emu8086.board.eu.islem.AluIslemi;
 import edu.yildiz.emu8086.tipler.VeriUzunlugu;
 import edu.yildiz.emu8086.tipler.FlagRegister;
 import edu.yildiz.emu8086.tipler.Word;

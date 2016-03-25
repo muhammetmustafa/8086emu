@@ -1,5 +1,5 @@
 
-package edu.yildiz.emu8086.board.eu.islem;
+package edu.yildiz.emu8086.board.eu;
 
 import edu.yildiz.emu8086.derleyici.asm.operand.Operand;
 
