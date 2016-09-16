@@ -3,7 +3,7 @@
 Eski Intel 8086 işlemcisinin çalışma mantığını daha iyi anlatabilmek için okul projesi kapsamında gerçeklediğim bir projedir. Bazı kısımları tam çalışmamaktadır.
 
 Proje;
-      - Basit bir assembly derleyicisinden (sadece 8086'ının çalıştırabildiği komutlar)
+      - Basit bir assembly derleyicisinden (sadece 8086'ının çalıştırabildiği komutlar),
       - Memory biriminden,
       - Adres, Veri ve Kontrol yolundan,
       - IQ (Instruction Queue - Komut Kuyruğu)'dan,
